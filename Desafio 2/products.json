@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "armário",
+        "description": "mesa grande de madeira",
+        "price": 200,
+        "thumbnail": "/archives/thumbnail",
+        "code": 234,
+        "stock": 9
+    }
+]
