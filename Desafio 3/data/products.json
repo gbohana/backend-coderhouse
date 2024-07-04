@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "armário",
+        "description": "mesa grande de madeira",
+        "price": 200,
+        "thumbnail": "/archives/thumbnail",
+        "code": 234,
+        "stock": 9
+    },
+    {
+        "id": 2,
+        "title": "mesa",
+        "description": "mesa grande de madeira",
+        "price": 200,
+        "thumbnail": "/archives/thumbnail",
+        "code": 235,
+        "stock": 9
+    },
+    {
+        "id": 3,
+        "title": "mesa",
+        "description": "mesa grande de madeira",
+        "price": 200,
+        "thumbnail": "/archives/thumbnail",
+        "code": 235,
+        "stock": 9
+    },
+    {
+        "id": 4,
+        "title": "mesa",
+        "description": "mesa grande de madeira",
+        "price": 200,
+        "thumbnail": "/archives/thumbnail",
+        "code": 235,
+        "stock": 9
+    }
+]
